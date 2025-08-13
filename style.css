@@ -42,12 +42,16 @@ body {
 }
 
 .home ul li {
-  width: 15px;
+  width: auto;
   list-style: none;
   display: flex;
   gap: 15px;
   padding: 14px;
   font-weight: bold;
+}
+.home ul li img {
+  width: 20px;
+  height: 20px;
 }
 
 .home .logo {
