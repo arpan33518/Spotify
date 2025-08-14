@@ -123,7 +123,7 @@ body {
   gap: 10px;
   margin: 30px;
   overflow-y: auto;
-  max-height: 70vh;
+  max-height: 65vh;
 }
 .card img {
   width: 100%;

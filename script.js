@@ -52,6 +52,8 @@ async function getSongs(folder = "NCS") {
             playMusic(trackName);
         });
     });
+
+    playMusic(songs[0]);
 }
 
 function playMusic(track, pause = false) {
